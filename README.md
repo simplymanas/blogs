@@ -1,6 +1,6 @@
 ## I lost the domain name , so moving to git
 
-# https://simplymanas.github.io/blogs/
+## https://simplymanas.github.io/blogs/
 
 
 
