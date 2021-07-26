@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## I lost the domain name , so moving to git
+
+# https://simplymanas.github.io/blogs/
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/simplymanas/blogs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
