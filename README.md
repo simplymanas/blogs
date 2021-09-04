@@ -3,6 +3,7 @@
 
 ## https://simplymanas.github.io/blogs/
 
+[Kafka](https://github.com/simplymanas/blogs/blob/master/source/thoughtsSharedOnKafka.md)
 
 
 
