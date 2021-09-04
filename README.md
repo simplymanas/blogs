@@ -1,4 +1,5 @@
-## I lost the domain name , so moving to git
+## Great minds are working behind.
+# will be live soon.
 
 ## https://simplymanas.github.io/blogs/
 
